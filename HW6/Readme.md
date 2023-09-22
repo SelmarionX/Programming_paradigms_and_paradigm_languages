@@ -17,4 +17,6 @@
 бинарного поиска. На вход подаётся целочисленный массив и
 число. На выходе - индекс элемента или -1, в случае если искомого
 элемента нет в массиве.
+
+
 ![image](https://github.com/SelmarionX/Programming_paradigms_and_paradigm_languages/assets/113622270/a72ee21e-9d91-42ae-8dab-9d39be8f597a)
